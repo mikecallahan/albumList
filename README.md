@@ -17,4 +17,4 @@ This app is a result of code created while taking Stephen Grider's Udemy course 
 * run `npm install`
 * Install axios, `npm install axios --save`
 * Link axios to the project `react-native link axios`
-* Run in the simulator 'react-native run-ios'
+* Run in the simulator `react-native run-io`
